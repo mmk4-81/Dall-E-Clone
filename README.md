@@ -37,3 +37,4 @@ The application also uses Cloudinary for image storage and management.
 
 ### View Posts:
 - All saved posts (prompts and images) are displayed on the homepage. Users can view the image associated with each prompt.
+- 
